@@ -1,0 +1,8 @@
+# Visual Studio / .NET build & cache artifacts
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
